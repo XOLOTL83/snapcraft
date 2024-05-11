@@ -35,7 +35,7 @@ iniconfig==2.0.0
 isort==5.13.2
 jaraco.classes==3.3.1
 jeepney==0.8.0
-jsonschema==2.5.1
+jsonschema==2.6.0
 keyring==24.3.1
 launchpadlib==1.11.0
 lazr.restfulclient==0.14.6
