@@ -1,5 +1,5 @@
 # -*- Mode:Python; indent-tabs-mode:nil; tab-width:4 -*-
-#
+# #
 # Copyright 2024 Canonical Ltd.
 #
 # This program is free software: you can redistribute it and/or modify
